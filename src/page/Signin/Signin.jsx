@@ -1,7 +1,7 @@
 /** @jsxImportSource @emotion/react */
 import * as s from "./style.js";
 
-function Signin(props) {
+function Signin() {
     return (
         <div css={s.layout}>
             <div css={s.loginBox}></div>

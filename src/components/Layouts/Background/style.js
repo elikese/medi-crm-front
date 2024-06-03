@@ -5,5 +5,4 @@ export const layout = css`
     width: 100%;
     height: 100%;
     background-color: #e9eef3;
-    z-index: -99;
 `;
